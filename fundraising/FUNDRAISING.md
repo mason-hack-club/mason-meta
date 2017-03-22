@@ -6,16 +6,18 @@ Details on how we'll earn money for Mason Hack Club.
 
 ### Restaurant Fundraising
 
-- [ ] Chipotle
-- [ ] Panda Express
-- [ ] Chick-fil-a
-- [ ] Moe's
-- [ ] Culver's
-- [ ] Blaze
-- [ ] Milano's
-- [ ] Pisszeria Locale
-- [ ] City Barbecue
-- [ ] Brixx
-- [ ] Kidd Coffee
-- [ ] Starbucks
+- [ ] Chipotle - 50% profits (https://chipotle.com/fundraisers)
+- [ ] Panda Express - 20% profits (https://www.pandaexpress.com/fundraiser-landing)
+- [ ] Chick-fil-a - possibly not great b/c recent backlash (https://www.change.org/p/mt-lebanon-school-district-return-all-monies-received-from-chick-fil-a-sprit-night-fundraisers-2)
+- [ ] Moe's - 15% profits (http://moesri.com/)
+- [ ] Culver's - 15% profits ??
+- [ ] Blaze - 20% profits (http://www.blazepizza.com/fundraising/)
+- [ ] Milano's - 20% profits (http://www.milanossubs.com/community/)
+- [ ] Pisszeria Locale - 
+- [ ] City Barbecue - 
+- [ ] Brixx - 
+- [ ] Kidd Coffee - 
+- [ ] Starbucks - 
 - [ ] Cocoon Coffee
+
+- more options: https://www.scholasticatravel.com/2012/08/06/20-chain-restaurants-with-fundraising-opportunities-for-school-trips/

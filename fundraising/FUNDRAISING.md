@@ -21,3 +21,4 @@ Details on how we'll earn money for Mason Hack Club.
 - [ ] Cocoon Coffee
 
 - more options: https://www.scholasticatravel.com/2012/08/06/20-chain-restaurants-with-fundraising-opportunities-for-school-trips/
+- ways to thank: https://www.classy.org/blog/15-creative-ways-to-thank-donors/

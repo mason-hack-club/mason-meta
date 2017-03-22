@@ -1,4 +1,4 @@
-# Fundraising
+# Fundraising Ideas
 
 Details on how we'll earn money for Mason Hack Club.
 
@@ -29,5 +29,3 @@ Details on how we'll earn money for Mason Hack Club.
 
 - [More Ideas](https://www.scholasticatravel.com/2012/08/06/20-chain-restaurants-with-fundraising-opportunities-for-school-trips/)
 - [Ways to Thank Donors](https://www.classy.org/blog/15-creative-ways-to-thank-donors/)
-
-## 3/22/2017 Meeting--Lori Fox Allen & Dalton Craven

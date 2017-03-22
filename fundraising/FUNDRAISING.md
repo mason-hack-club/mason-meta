@@ -2,7 +2,7 @@
 
 Details on how we'll earn money for Mason Hack Club.
 
-## 3/22/2017 Meeting--Lori Fox Allen & Dalton Craven
+## 3/22/2017 Meeting--Lorri Fox Allen & Dalton Craven
 
 ### Restaurant Fundraising
 

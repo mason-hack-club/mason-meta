@@ -14,4 +14,5 @@ The things we use to manage Mason Hack Club.
 | Annie Wang       | Outreach Director       |
 
 ## Quick Links
+
 [`fundraising/FUNDRAISING.md`](fundraising/FUNDRAISING.md)  

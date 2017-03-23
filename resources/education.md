@@ -29,4 +29,4 @@ If you try a program through [GitHub Education](https://education.github.com), w
 
 ## Travis CI
 
-[Travis CI](https://travis-ci.com) works similar to Cloud9, you can edit repositories online. Editing free repositories is free for everyone at [https://travis-ci.org](https://travis-ci.org), you get free private repository editing at [https://travis-ci.com](https://travis-ci.com) through GitHub Education. More info coming soon.
+[https://travis-ci.com](https://travis-ci.com) (through GitHub) and [https://travis-ci.org](https://travis-ci.org) (always free) are [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) management systems.

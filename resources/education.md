@@ -13,7 +13,7 @@ If you try a program through [GitHub Education](https://education.github.com), w
 
 ## AWS Educate
 
-[AWS Educate](https://www.awseducate.com/) is currently reviewing my application.
+[AWS Educate](https://www.awseducate.com/) requires someone 18+ to sign up.
 
 ## CrowdFlower
 

@@ -43,4 +43,17 @@ All of these offers can be found on [GitHub Education](https://education.github.
 [Taplytics](https://taplytics.com) is a mobile app management system that lets you test changes before they're released to everyone. They also offer granular control over push notifications.
 
 ## Thinkful
+
 [Thinkful](https://www.thinkful.com) is a two-week class on web development. You learn about HTML, CSS, JavaScript, and jQuery. However, the two-week timer starts whenever you initially enroll through GitHub.
+
+## CARTO
+
+[CARTO](https://carto.com/) is a analysis tool for location services.
+
+## Datadog
+
+[Datadog](https://www.datadoghq.com/) combines metrics/events across many different pieces of an application (monitors the "full stack").
+
+## Flatiron School
+
+[Flatiron School](https://flatironschool.com/) gives free one-month access to a coding bootcamp for web development.

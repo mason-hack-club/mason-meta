@@ -59,4 +59,9 @@ All of these offers can be found on [GitHub Education](https://education.github.
 [Flatiron School](https://flatironschool.com/) gives free one-month access to a coding boot camp for web development. This boot camp is very integrated: you download a custom modified version of the atom client & it tracks your progress online.
 
 ## Microsoft Imagine
-[Microsoft Imagine](https://www.visualstudio.com/dev-essentials/) gives you a huge bundle of Microsoft programs for free. They have Visual Studio, a lightweight code editor, free Azure cloud services, and education resources.  
+
+[Microsoft Imagine](https://www.visualstudio.com/dev-essentials/) gives you a huge bundle of Microsoft programs for free. They have Visual Studio, a lightweight code editor, free Azure cloud services, and education resources.
+
+## Udacity
+
+[Udacity](https://www.udacity.com) is an online classroom that gets you a "nanodegree." You can access any nanodegree free for one month, however, you have to have a credit card.

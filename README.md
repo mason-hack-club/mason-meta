@@ -15,4 +15,4 @@ The things we use to manage Mason Hack Club.
 
 ## Quick Links
 
-[`fundraising/fundraising-ideas.md`](fundraising/fundraising-ideas.md)  
+[`money/potential-sponsors.md`](money/potential-sponsors.md)  

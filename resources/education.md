@@ -1,15 +1,18 @@
 # GitHub Education
 
-If you try a program through [GitHub Education](https://education.github.com), write about your experience here.
-
+All of these offers can be found on [GitHub Education](https://education.github.com).
 
 ## Atom
 
 [Atom](https://atom.io) is a free text editor that integrates with GitHub. It's an extremely versatile program. You can edit the source code to add any feature you'd like, or you can install pre-made packages. It works very well with GitHub desktop--there's even a button in GitHub desktop that opens Atom to the repository you're viewing.
 
+## GitKraken
+
+[GitKraken](https://www.gitkraken.com/) is a GitHub management system, similar to GitHub desktop. However, it presents information in a more graphical interface. You can, for example, see and manage where different branches are & how they interact with each other. You can also manage pull requests, tag releases, and manage commits with more precision.
+
 ## SendGrid
 
-[SendGrid](https://sendgrid.com/) allows you to send form emails to people who sign up for your mailing list. More details coming soon.
+[SendGrid](https://sendgrid.com/) allows you to send form emails to people who sign up for your mailing list. You can design custom body layouts for your emails, manage multiple mailing/unsubscribe lists, and see analytics data.
 
 ## AWS Educate
 
@@ -17,7 +20,7 @@ If you try a program through [GitHub Education](https://education.github.com), w
 
 ## CrowdFlower
 
-[CrowdFlower](https://www.crowdflower.com/) is an AI program to manage data.
+[CrowdFlower](https://www.crowdflower.com/) is a company that lets you hire other people to sort through and manage data. You can have them sort data, tag certain things (e.g. boats) in an image, rank things based on sentiment, and more.
 
 ## DigitalOcean
 
@@ -30,3 +33,14 @@ If you try a program through [GitHub Education](https://education.github.com), w
 ## Travis CI
 
 [https://travis-ci.com](https://travis-ci.com) (through GitHub) and [https://travis-ci.org](https://travis-ci.org) (always free) are [Continuous Integration](https://en.wikipedia.org/wiki/Continuous_integration) management systems.
+
+## Namecheap
+
+[Namecheap](https://www.namecheap.com/) gives a free SSL certificate for one year. They also offer a free .me domain for one year.
+
+## Taplytics
+
+[Taplytics](https://taplytics.com) is a mobile app management system that lets you test changes before they're released to everyone. They also offer granular control over push notifications.
+
+## Thinkful
+[Thinkful](https://www.thinkful.com) is a two-week class on web development. You learn about HTML, CSS, JavaScript, and jQuery. However, the two-week timer starts whenever you initially enroll through GitHub.

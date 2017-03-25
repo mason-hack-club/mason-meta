@@ -56,4 +56,4 @@ All of these offers can be found on [GitHub Education](https://education.github.
 
 ## Flatiron School
 
-[Flatiron School](https://flatironschool.com/) gives free one-month access to a coding bootcamp for web development.
+[Flatiron School](https://flatironschool.com/) gives free one-month access to a coding bootcamp for web development. This bootcamp is very integrated: you download a custom modified version of the atom client & it tracks your progress online. 

@@ -16,3 +16,4 @@ The things we use to manage Mason Hack Club.
 ## Quick Links
 
 [`money/potential-sponsors.md`](money/potential-sponsors.md)  
+[`resources/education.md`](resources/education.md)

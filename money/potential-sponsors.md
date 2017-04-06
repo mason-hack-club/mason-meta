@@ -11,7 +11,7 @@ Details on how we'll earn money for Mason Hack Club.
   - https://www.pandaexpress.com/fundraiser-landing
 - [ ] Chick-fil-a - Contact Store.
 - [ ] Moe's - 15% profits
-  - http://moesri.com/
+  - Contact store
 - [ ] Culver's - Contact Store
 - [ ] Blaze - 20% profits
   - http://www.blazepizza.com/fundraising/

@@ -3,7 +3,8 @@
 Details on how we'll earn money for Mason Hack Club.
 
 ### Restaurant Fundraising
-
+- [ ] B-dubs - ?? profits
+  - https://ewrf.buffalowildwings.com/
 - [ ] Chipotle - 50% profits
   - https://chipotle.com/fundraisers
 - [ ] Panda Express - 20% profits

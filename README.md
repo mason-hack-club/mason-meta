@@ -7,11 +7,12 @@ The things we use to manage Mason Hack Club.
 | Name             | Role                    |
 | ---------------- | ----------------------- |
 | Megan Cui        | President               |
+| Dalton Craven    | Finance Director        |
+| Annie Wang       | Outreach Director       |
 | Scott Shepherd   | Project Director        |
 | Noah Heinen      | Project Director        |
 | Mark Senne       | Communications Director |
 | Avi Parshionikar | Activities Director     |
-| Annie Wang       | Outreach Director       |
 
 ## Quick Links
 
